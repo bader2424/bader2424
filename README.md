@@ -1,34 +1,72 @@
 # Hi, I'm Bader Bahashwan
 
-Computer Engineering graduate focused on full-stack web development, DevOps automation, and cloud infrastructure.
+Full-stack and DevOps-focused engineer building web platforms, backend systems, cloud infrastructure, and automated delivery pipelines.
 
-I build production-minded web platforms with clean backend architecture, role-based systems, Dockerized environments, CI/CD pipelines, security checks, and infrastructure-as-code.
-
-Currently focused on:
-
-- Full-stack SaaS applications
-- DevOps and cloud infrastructure
-- CI/CD and DevSecOps automation
-- Kubernetes, Docker, Terraform, and observability
+I work across application development and operations: from React/Next.js interfaces and NestJS APIs to Dockerized environments, CI/CD workflows, infrastructure-as-code, and observability. My focus is building systems that are maintainable, reproducible, secure, and ready to run beyond a local machine.
 
 ## Tech Stack
 
-| Area | Tools |
-|---|---|
-| Frontend | ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript) ![React](https://img.shields.io/badge/React-black?logo=react) ![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-black?logo=tailwindcss) |
-| Backend | ![Node.js](https://img.shields.io/badge/Node.js-black?logo=nodedotjs) ![NestJS](https://img.shields.io/badge/NestJS-black?logo=nestjs) ![ASP.NET](https://img.shields.io/badge/ASP.NET-black?logo=dotnet) ![Prisma](https://img.shields.io/badge/Prisma-black?logo=prisma) ![Swagger](https://img.shields.io/badge/Swagger-black?logo=swagger) |
-| DevOps | ![Docker](https://img.shields.io/badge/Docker-black?logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-black?logo=kubernetes) ![Terraform](https://img.shields.io/badge/Terraform-black?logo=terraform) ![Ansible](https://img.shields.io/badge/Ansible-black?logo=ansible) ![Argo CD](https://img.shields.io/badge/Argo%20CD-black?logo=argo) |
-| CI/CD & Security | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?logo=githubactions) ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-black?logo=gitlab) ![Trivy](https://img.shields.io/badge/Trivy-black?logo=aqua) ![Git](https://img.shields.io/badge/Git-black?logo=git) |
-| Cloud & Data | ![AWS](https://img.shields.io/badge/AWS-black?logo=amazonaws) ![GCP](https://img.shields.io/badge/GCP-black?logo=googlecloud) ![OCI](https://img.shields.io/badge/OCI-black?logo=oracle) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql) ![Redis](https://img.shields.io/badge/Redis-black?logo=redis) |
-| Observability | ![Prometheus](https://img.shields.io/badge/Prometheus-black?logo=prometheus) ![Grafana](https://img.shields.io/badge/Grafana-black?logo=grafana) ![Loki](https://img.shields.io/badge/Loki-black?logo=grafana) ![Jaeger](https://img.shields.io/badge/Jaeger-black?logo=jaeger) |
+<table>
+  <tr>
+    <td><strong>Programming & Web</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" title="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" title="TypeScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" title="React" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="28" title="Next.js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28" title="Node.js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="28" title="NestJS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" title="Python" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="28" title="C#" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="28" title="ASP.NET" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="28" title="Tailwind CSS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="28" title="Prisma" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="28" title="Swagger" />
+    </td>
+  </tr>
 
-## Featured Projects
+  <tr>
+    <td><strong>DevOps & Automation</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" title="Git" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="28" title="GitHub Actions" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="28" title="GitLab CI/CD" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28" title="Docker" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="28" title="Kubernetes" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="28" title="Helm" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="28" title="Terraform" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="28" title="Ansible" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="28" title="Bash" />
+    </td>
+  </tr>
 
-- [StayOps](https://github.com/bader2424/StayOps) — Hospitality booking platform with Next.js, NestJS, PostgreSQL, Redis, Docker, CI/CD, security scanning, Terraform, and Ansible.
-- [Microservice DevOps Portfolio](https://github.com/bader2424/microservice-devops-portfolio) — AWS EKS, Terraform, Argo CD GitOps, observability, and DevSecOps pipeline.
-- [OpsPilot](https://github.com/bader2424/OpsPilot) — DevOps service health and release tracking platform.
+  <tr>
+    <td><strong>Cloud & Databases</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="34" title="AWS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="28" title="Google Cloud" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="28" title="Oracle Cloud" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28" title="PostgreSQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="28" title="SQL Server" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28" title="MongoDB" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="28" title="Redis" />
+    </td>
+  </tr>
 
-## Contact
+  <tr>
+    <td><strong>Observability</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="28" title="Prometheus" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="28" title="Grafana" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jaegertracing/jaegertracing-original.svg" width="28" title="Jaeger" />
+    </td>
+  </tr>
 
-- LinkedIn: [bader-bahashwan-25108731b](https://linkedin.com/in/bader-bahashwan-25108731b)
-- GitHub: [bader2424](https://github.com/bader2424)
+  <tr>
+    <td><strong>Systems</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28" title="Linux" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="28" title="Windows" />
+    </td>
+  </tr>
+</table>
