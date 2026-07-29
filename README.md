@@ -12,8 +12,8 @@ I care about turning ideas into systems that are practical to use, easy to run, 
 
 ### DevOps & Cloud
 
-[![DevOps & Cloud](https://skillicons.dev/icons?i=git,githubactions,gitlab,docker,kubernetes,terraform,ansible,bash,aws,gcp)](https://skillicons.dev)
+[![DevOps & Cloud](https://skillicons.dev/icons?i=git,githubactions,gitlab,docker,kubernetes,terraform,ansible,bash,aws,gcp,linux)](https://skillicons.dev)
 
 ### Databases & Observability
 
-[![Databases & Observability](https://skillicons.dev/icons?i=postgres,mongodb,redis,prometheus,grafana,linux)](https://skillicons.dev)
+[![Databases & Observability](https://skillicons.dev/icons?i=postgres,mongodb,redis,prometheus,grafana)](https://skillicons.dev)
