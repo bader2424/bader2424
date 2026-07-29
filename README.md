@@ -4,20 +4,26 @@ I build full-stack web platforms with DevOps as part of the engineering process,
 
 I care about turning ideas into systems that are practical to use, easy to run, and clear for other developers to understand. My work focuses on the space where product engineering, backend systems, and cloud operations meet.
 
-## Tech Stack
+## Tech Stack Options
 
-| Programming & Web Development | DevOps & Delivery | Cloud & Database |
-| --- | --- | --- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22" height="22" alt="JavaScript" /> JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="22" height="22" alt="Kubernetes" /> Kubernetes | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="28" height="22" alt="AWS" /> AWS |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="22" height="22" alt="TypeScript" /> TypeScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="22" height="22" alt="Docker" /> Docker | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="22" height="22" alt="GCP" /> GCP |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22" height="22" alt="React.js" /> React.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="22" height="22" alt="Helm" /> Helm | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="28" height="22" alt="OCI" /> OCI |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="22" height="22" alt="Next.js" /> Next.js | <img src="https://cdn.simpleicons.org/argo/EF7B4D" width="22" height="22" alt="Argo CD" /> Argo CD | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="22" height="22" alt="PostgreSQL" /> PostgreSQL |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="22" height="22" alt="NestJS" /> NestJS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="22" height="22" alt="Terraform" /> Terraform | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="22" height="22" alt="Microsoft SQL Server" /> Microsoft SQL Server |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22" height="22" alt="Python" /> Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="22" height="22" alt="Ansible" /> Ansible | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="22" height="22" alt="MongoDB" /> MongoDB |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="22" height="22" alt="C#" /> C# | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22" height="22" alt="Git" /> Git | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="22" height="22" alt="Redis" /> Redis |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="22" height="22" alt="ASP.NET" /> ASP.NET | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="22" height="22" alt="GitHub Actions" /> GitHub Actions | |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="22" height="22" alt="Prisma" /> Prisma | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="22" height="22" alt="Bash" /> Bash | |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="22" height="22" alt="Postman" /> Postman | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="22" height="22" alt="Linux" /> Linux | |
-| | <img src="https://cdn.simpleicons.org/prometheus/E6522C" width="22" height="22" alt="Prometheus" /> Prometheus | |
-| | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="22" height="22" alt="Grafana" /> Grafana | |
-| | <img src="https://cdn.simpleicons.org/grafana/FCC624" width="22" height="22" alt="Loki" /> Loki | |
+Each option below is a single SVG image. That keeps the layout stable for public GitHub visitors, incognito windows, mobile, and different browser widths.
+
+### Option 1 - Dark Pills
+
+<img src="./assets/stack-dark-pills.svg" alt="Dark pills tech stack" width="100%" />
+
+### Option 2 - Brand Cards
+
+<img src="./assets/stack-brand-cards.svg" alt="Brand cards tech stack" width="100%" />
+
+### Option 3 - Icon Row
+
+<img src="./assets/stack-icon-row.svg" alt="Icon row tech stack" width="100%" />
+
+### Option 4 - Outline Tokens
+
+<img src="./assets/stack-outline.svg" alt="Outline tokens tech stack" width="100%" />
+
+### Option 5 - Minimal Labels
+
+<img src="./assets/stack-minimal.svg" alt="Minimal labels tech stack" width="100%" />
