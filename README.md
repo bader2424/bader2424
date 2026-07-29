@@ -6,49 +6,66 @@ I care about turning ideas into systems that are practical to use, easy to run, 
 
 ## Tech Stack Options
 
-### Option 1 - Stable Table
-
-| Programming & Web Development | DevOps & Delivery | Cloud & Database |
-| --- | --- | --- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22" height="22" alt="JavaScript" /> JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="22" height="22" alt="Kubernetes" /> Kubernetes | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="28" height="22" alt="AWS" /> AWS |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="22" height="22" alt="TypeScript" /> TypeScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="22" height="22" alt="Docker" /> Docker | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="22" height="22" alt="GCP" /> GCP |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22" height="22" alt="React.js" /> React.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="22" height="22" alt="Helm" /> Helm | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="28" height="22" alt="OCI" /> OCI |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="22" height="22" alt="Next.js" /> Next.js | <img src="https://cdn.simpleicons.org/argo/EF7B4D" width="22" height="22" alt="Argo CD" /> Argo CD | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="22" height="22" alt="PostgreSQL" /> PostgreSQL |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="22" height="22" alt="NestJS" /> NestJS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="22" height="22" alt="Terraform" /> Terraform | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="22" height="22" alt="Microsoft SQL Server" /> Microsoft SQL Server |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22" height="22" alt="Python" /> Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="22" height="22" alt="Ansible" /> Ansible | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="22" height="22" alt="MongoDB" /> MongoDB |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="22" height="22" alt="C#" /> C# | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22" height="22" alt="Git" /> Git | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="22" height="22" alt="Redis" /> Redis |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="22" height="22" alt="ASP.NET" /> ASP.NET | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="22" height="22" alt="GitHub Actions" /> GitHub Actions | |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="22" height="22" alt="Prisma" /> Prisma | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="22" height="22" alt="Bash" /> Bash | |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="22" height="22" alt="Postman" /> Postman | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="22" height="22" alt="Linux" /> Linux | |
-| | <img src="https://cdn.simpleicons.org/prometheus/E6522C" width="22" height="22" alt="Prometheus" /> Prometheus | |
-| | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="22" height="22" alt="Grafana" /> Grafana | |
-| | <img src="https://cdn.simpleicons.org/grafana/FCC624" width="22" height="22" alt="Loki" /> Loki | |
-
----
-
-### Option 2 - Icon Grid
-
-#### Programming & Web Development
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript" title="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript" title="TypeScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" height="38" alt="React.js" title="React.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="38" height="38" alt="Next.js" title="Next.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="38" height="38" alt="NestJS" title="NestJS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" height="38" alt="Python" title="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="38" height="38" alt="C#" title="C#" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="38" height="38" alt="ASP.NET" title="ASP.NET" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="38" height="38" alt="Prisma" title="Prisma" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="38" height="38" alt="Postman" title="Postman" />
-
-#### DevOps & Delivery
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="38" height="38" alt="Kubernetes" title="Kubernetes" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38" height="38" alt="Docker" title="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="38" height="38" alt="Helm" title="Helm" /> <img src="https://cdn.simpleicons.org/argo/EF7B4D" width="38" height="38" alt="Argo CD" title="Argo CD" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="38" height="38" alt="Terraform" title="Terraform" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="38" height="38" alt="Ansible" title="Ansible" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38" alt="Git" title="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="38" height="38" alt="GitHub Actions" title="GitHub Actions" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="38" height="38" alt="Bash" title="Bash" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="38" height="38" alt="Linux" title="Linux" /> <img src="https://cdn.simpleicons.org/prometheus/E6522C" width="38" height="38" alt="Prometheus" title="Prometheus" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="38" height="38" alt="Grafana" title="Grafana" /> <img src="https://cdn.simpleicons.org/grafana/FCC624" width="38" height="38" alt="Loki" title="Loki" />
-
-#### Cloud & Database
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="38" alt="AWS" title="AWS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="38" height="38" alt="GCP" title="GCP" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="38" alt="OCI" title="OCI" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38" height="38" alt="PostgreSQL" title="PostgreSQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="38" height="38" alt="Microsoft SQL Server" title="Microsoft SQL Server" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38" height="38" alt="MongoDB" title="MongoDB" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="38" height="38" alt="Redis" title="Redis" />
-
----
-
-### Option 3 - Compact Labeled Lines
+### Option 1 - Vertical Bars
 
 **Programming & Web Development**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" height="18" alt="JavaScript" /> JavaScript · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" height="18" alt="TypeScript" /> TypeScript · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18" height="18" alt="React.js" /> React.js · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="18" height="18" alt="Next.js" /> Next.js · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="18" height="18" alt="NestJS" /> NestJS · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" height="18" alt="Python" /> Python · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="18" height="18" alt="C#" /> C# · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="18" height="18" alt="ASP.NET" /> ASP.NET · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="18" height="18" alt="Prisma" /> Prisma · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="18" height="18" alt="Postman" /> Postman
+JavaScript | TypeScript | React.js | Next.js | NestJS | Python | C# | ASP.NET | Prisma | Postman
 
 **DevOps & Delivery**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="18" height="18" alt="Kubernetes" /> Kubernetes · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="18" height="18" alt="Docker" /> Docker · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="18" height="18" alt="Helm" /> Helm · <img src="https://cdn.simpleicons.org/argo/EF7B4D" width="18" height="18" alt="Argo CD" /> Argo CD · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="18" height="18" alt="Terraform" /> Terraform · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="18" height="18" alt="Ansible" /> Ansible · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="18" height="18" alt="Git" /> Git · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="18" height="18" alt="GitHub Actions" /> GitHub Actions · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="18" height="18" alt="Bash" /> Bash · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="18" height="18" alt="Linux" /> Linux · <img src="https://cdn.simpleicons.org/prometheus/E6522C" width="18" height="18" alt="Prometheus" /> Prometheus · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="18" height="18" alt="Grafana" /> Grafana · <img src="https://cdn.simpleicons.org/grafana/FCC624" width="18" height="18" alt="Loki" /> Loki
+Kubernetes | Docker | Helm | Argo CD | Terraform | Ansible | Git | GitHub Actions | Bash | Linux | Prometheus | Grafana | Loki
 
 **Cloud & Database**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="24" height="18" alt="AWS" /> AWS · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="18" height="18" alt="GCP" /> GCP · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="24" height="18" alt="OCI" /> OCI · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="18" height="18" alt="PostgreSQL" /> PostgreSQL · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="18" height="18" alt="Microsoft SQL Server" /> Microsoft SQL Server · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="18" height="18" alt="MongoDB" /> MongoDB · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="18" height="18" alt="Redis" /> Redis
+AWS | GCP | OCI | PostgreSQL | Microsoft SQL Server | MongoDB | Redis
+
+---
+
+### Option 2 - Bullets
+
+**Programming & Web Development**  
+JavaScript • TypeScript • React.js • Next.js • NestJS • Python • C# • ASP.NET • Prisma • Postman
+
+**DevOps & Delivery**  
+Kubernetes • Docker • Helm • Argo CD • Terraform • Ansible • Git • GitHub Actions • Bash • Linux • Prometheus • Grafana • Loki
+
+**Cloud & Database**  
+AWS • GCP • OCI • PostgreSQL • Microsoft SQL Server • MongoDB • Redis
+
+---
+
+### Option 3 - Slashes
+
+**Programming & Web Development**  
+JavaScript / TypeScript / React.js / Next.js / NestJS / Python / C# / ASP.NET / Prisma / Postman
+
+**DevOps & Delivery**  
+Kubernetes / Docker / Helm / Argo CD / Terraform / Ansible / Git / GitHub Actions / Bash / Linux / Prometheus / Grafana / Loki
+
+**Cloud & Database**  
+AWS / GCP / OCI / PostgreSQL / Microsoft SQL Server / MongoDB / Redis
+
+---
+
+### Option 4 - Dots With Line Breaks
+
+**Programming & Web Development**  
+JavaScript · TypeScript · React.js · Next.js · NestJS  
+Python · C# · ASP.NET · Prisma · Postman
+
+**DevOps & Delivery**  
+Kubernetes · Docker · Helm · Argo CD · Terraform  
+Ansible · Git · GitHub Actions · Bash · Linux  
+Prometheus · Grafana · Loki
+
+**Cloud & Database**  
+AWS · GCP · OCI · PostgreSQL  
+Microsoft SQL Server · MongoDB · Redis
+
+---
+
+### Option 5 - Compact Groups
+
+**Programming & Web Development:** JavaScript | TypeScript | React.js | Next.js | NestJS | Python | C# | ASP.NET | Prisma | Postman
+
+**DevOps & Delivery:** Kubernetes | Docker | Helm | Argo CD | Terraform | Ansible | Git | GitHub Actions | Bash | Linux | Prometheus | Grafana | Loki
+
+**Cloud & Database:** AWS | GCP | OCI | PostgreSQL | Microsoft SQL Server | MongoDB | Redis
