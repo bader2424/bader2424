@@ -6,42 +6,14 @@ I care about turning ideas into systems that are practical to use, easy to run, 
 
 ## Tech Stack
 
-**Programming & Web**
+### Programming & Web
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript)
-![React](https://img.shields.io/badge/React-black?logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-black?logo=nodedotjs)
-![NestJS](https://img.shields.io/badge/NestJS-black?logo=nestjs)
-![Python](https://img.shields.io/badge/Python-black?logo=python)
+[![Programming & Web](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,python,cs,dotnet,tailwind,prisma)](https://skillicons.dev)
 
-<br />
+### DevOps & Cloud
 
-**DevOps & Infrastructure**
+[![DevOps & Cloud](https://skillicons.dev/icons?i=git,githubactions,gitlab,docker,kubernetes,terraform,ansible,bash,aws,gcp)](https://skillicons.dev)
 
-![Git](https://img.shields.io/badge/Git-black?logo=git)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?logo=githubactions)
-![Docker](https://img.shields.io/badge/Docker-black?logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-black?logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-black?logo=terraform)
-![Ansible](https://img.shields.io/badge/Ansible-black?logo=ansible)
+### Databases & Observability
 
-<br />
-
-**Cloud & Databases**
-
-![AWS](https://img.shields.io/badge/AWS-black?logo=amazonwebservices)
-![GCP](https://img.shields.io/badge/GCP-black?logo=googlecloud)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-black?logo=redis)
-
-<br />
-
-**Observability & Systems**
-
-![Prometheus](https://img.shields.io/badge/Prometheus-black?logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-black?logo=grafana)
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
-![Windows](https://img.shields.io/badge/Windows-black?logo=windows11)
+[![Databases & Observability](https://skillicons.dev/icons?i=postgres,mongodb,redis,prometheus,grafana,linux)](https://skillicons.dev)
