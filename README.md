@@ -6,14 +6,14 @@ I care about turning ideas into systems that are practical to use, easy to run, 
 
 ## Tech Stack
 
-### Programming & Web
+### Programming & Web Development
 
-[![Programming & Web](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,python,cs,dotnet,tailwind,prisma)](https://skillicons.dev)
+[![Programming & Web Development](https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,python,cs,dotnet,prisma,postman)](https://skillicons.dev)
 
-### DevOps & Cloud
+### DevOps & Delivery
 
-[![DevOps & Cloud](https://skillicons.dev/icons?i=git,githubactions,gitlab,docker,kubernetes,terraform,ansible,bash,aws,gcp,linux)](https://skillicons.dev)
+[![DevOps & Delivery](https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible,git,githubactions,bash,linux,prometheus,grafana)](https://skillicons.dev)
 
-### Databases & Observability
+### Cloud & Database
 
-[![Databases & Observability](https://skillicons.dev/icons?i=postgres,mongodb,redis,prometheus,grafana)](https://skillicons.dev)
+[![Cloud & Database](https://skillicons.dev/icons?i=aws,gcp,postgres,mongodb,redis)](https://skillicons.dev)
