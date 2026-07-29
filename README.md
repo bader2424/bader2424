@@ -6,18 +6,11 @@ I care about turning ideas into systems that are practical to use, easy to run, 
 
 ## Tech Stack
 
-| Programming & Web Development | DevOps & Delivery | Cloud & Database |
-|---|---|---|
-| JavaScript | Kubernetes | AWS |
-| TypeScript | Docker | GCP |
-| React.js | Helm | OCI |
-| Next.js | Argo CD | PostgreSQL |
-| NestJS | Terraform | Microsoft SQL Server |
-| Python | Ansible | MongoDB |
-| C# | Git | Redis |
-| ASP.NET | GitHub Actions |  |
-| Prisma | Bash |  |
-| Postman | Linux |  |
-|  | Prometheus |  |
-|  | Grafana |  |
-|  | Loki |  |
+**Programming & Web Development**  
+JavaScript · TypeScript · React.js · Next.js · NestJS · Python · C# · ASP.NET · Prisma · Postman
+
+**DevOps & Delivery**  
+Kubernetes · Docker · Helm · Argo CD · Terraform · Ansible · Git · GitHub Actions · Bash · Linux · Prometheus · Grafana · Loki
+
+**Cloud & Database**  
+AWS · GCP · OCI · PostgreSQL · Microsoft SQL Server · MongoDB · Redis
