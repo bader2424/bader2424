@@ -1,8 +1,8 @@
 # Hi, I'm Bader
 
-I build full-stack web platforms with DevOps as part of the engineering process, combining clean application architecture, automated CI/CD, infrastructure-as-code, containerized environments, and observability.
+I build full-stack web applications and the infrastructure needed to deploy and run them reliably. My work includes frontend development, backend APIs, CI/CD pipelines, containerized applications, cloud infrastructure, and monitoring.
 
-I care about turning ideas into systems that are practical to use, easy to run, and clear for other developers to understand. My work focuses on the space where product engineering, backend systems, and cloud operations meet.
+I focus on building systems that are practical, reliable, and easy for other developers to maintain.
 
 ## Tech Stack
 
